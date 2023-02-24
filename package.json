@@ -41,11 +41,11 @@
 		"Other"
 	],
 	"repository": {
-		"url": ""
+		"url": "https://github.com/demystifying-javascript/javascript-fullstack-developer-extension-pack"
 	},
-	"homepage": "",
+	"homepage": "https://github.com/demystifying-javascript/javascript-fullstack-developer-extension-pack",
 	"bugs": {
-		"url": ""
+		"url": "https://github.com/demystifying-javascript/javascript-fullstack-developer-extension-pack/issues"
 	},
 	"extensionPack": [
 		"xabikos.JavaScriptSnippets",
