@@ -1,0 +1,73 @@
+{
+	"name": "javascript-fullstack-developer-extension-pack",
+	"displayName": "Javascript Fullstack Developer Extension Pack",
+	"description": "Visual Studio Code extensions for Javascript Fullstack Development",
+	"version": "1.0.0",
+	"publisher": "demystifying-javascript",
+	"icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#f0efe7",
+		"theme": "light"
+	},
+	"engines": {
+		"vscode": "^1.75.0"
+	},
+	"keywords": [
+		"javascript",
+		"fullstack",
+		"fullstack developer",
+		"fullstack development",
+		"node js",
+		"eslint",
+		"console log",
+		"web developer",
+		"web development",
+		"snippets",
+		"css",
+		"scss",
+		"npm",
+		"intelliSense",
+		"comments",
+		"json",
+		"browser",
+		"regex"
+	],
+	"categories": [
+		"Extension Packs",
+		"Snippets",
+		"Linters",
+		"Programming Languages",
+		"Formatters",
+		"Other"
+	],
+	"repository": {
+		"url": ""
+	},
+	"homepage": "",
+	"bugs": {
+		"url": ""
+	},
+	"extensionPack": [
+		"xabikos.JavaScriptSnippets",
+		"pranaygp.vscode-css-peek",
+		"formulahendry.auto-close-tag",
+		"formulahendry.auto-rename-tag",
+		"christian-kohler.path-intellisense",
+		"dbaeumer.vscode-eslint",
+		"esbenp.prettier-vscode",
+		"ritwickdey.LiveServer",
+		"aaron-bond.better-comments",
+		"pnp.polacode",
+		"Shan.code-settings-sync",
+		"ritwickdey.live-sass",
+		"eriklynd.json-tools",
+		"johnpapa.vscode-cloak",
+		"mikestead.dotenv",
+		"techer.open-in-browser",
+		"ChakrounAnas.turbo-console-log",
+		"rangav.vscode-thunder-client",
+		"chrmarti.regex",
+		"donjayamanne.git-extension-pack",
+		"waderyan.nodejs-extension-pack"
+	]
+}
