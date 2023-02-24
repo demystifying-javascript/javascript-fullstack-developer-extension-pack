@@ -2,7 +2,7 @@
 	"name": "javascript-fullstack-developer-extension-pack",
 	"displayName": "Javascript Fullstack Developer Extension Pack",
 	"description": "Visual Studio Code extensions for Javascript Fullstack Development",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "demystifying-javascript",
 	"icon": "images/icon.png",
 	"galleryBanner": {

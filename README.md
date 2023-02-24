@@ -13,8 +13,7 @@ This extension pack packages some of the most popular and some of my favorite Ja
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - This extension launches a development local Server with live reload feature for static & dynamic pages.
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - This extension will help you create more human-friendly comments in your code. You will be able to categorise your  your annotations into alerts, queries,TODOs, highlights.
 * [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) - This extension helps to create a polaroid for your code.
-* [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - This extension helps to synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
-* [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) - This extension helps to compile/transpile your SASS/SCSS files to CSS files at realtime with live browser reload.
+* [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass) - This extension helps you to compile/transpile your SASS/SCSS files to CSS files at real-time.
 * [JSON Tools](https://marketplace.visualstudio.com/items?itemName=eriklynd.json-tools) - This extension helps pretty/minify JSON.
 * [Cloak](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-cloak) - This extension hides/shows your secrets in environment files, to avoid accidentally sharing them with everyone who sees your screen.
 * [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - This extension enables .env syntax highlighting.
