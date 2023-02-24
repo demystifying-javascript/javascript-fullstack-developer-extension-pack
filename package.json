@@ -2,7 +2,7 @@
 	"name": "javascript-fullstack-developer-extension-pack",
 	"displayName": "Javascript Extension Pack",
 	"description": "Everything you need for fullstack javascript web development",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"publisher": "demystifying-javascript",
 	"icon": "images/icon.png",
 	"galleryBanner": {
