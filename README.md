@@ -1,5 +1,5 @@
 # Javascript Fullstack Developer Extension Pack
-This extension pack packages some of the most popular and some of my favorite Javascript Fullstack Developer extensions.
+This extension pack packages some of the most popular and some of my favorite extensions needed for fullstack Javascript development or web development.
 
 ## Extensions Included
 

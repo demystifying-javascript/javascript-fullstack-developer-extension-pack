@@ -1,3 +1,7 @@
+## 1.0.2
+
+- Updated title and description
+
 ## 1.0.1
 
 - Removed some deprecated extensions
