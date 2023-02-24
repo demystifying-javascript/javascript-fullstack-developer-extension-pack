@@ -4,6 +4,7 @@
 	"description": "Everything you need for fullstack javascript web development",
 	"version": "1.0.2",
 	"publisher": "demystifying-javascript",
+	"license": "MIT",
 	"icon": "images/icon.png",
 	"galleryBanner": {
 		"color": "#f0efe7",
