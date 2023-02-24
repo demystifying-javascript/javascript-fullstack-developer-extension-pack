@@ -2,7 +2,7 @@
 	"name": "javascript-fullstack-developer-extension-pack",
 	"displayName": "Javascript Extensions Pack",
 	"description": "Everything you need for fullstack javascript web development",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"publisher": "demystifying-javascript",
 	"license": "MIT",
 	"icon": "images/icon.png",
@@ -32,7 +32,15 @@
 		"comments",
 		"json",
 		"browser",
-		"regex"
+		"regex",
+		"JavaScript",
+		"Node.js",
+		"node",
+		"nodejs",
+		"html",
+		"eslint",
+		"prettier",
+		"rest api"
 	],
 	"categories": [
 		"Extension Packs",

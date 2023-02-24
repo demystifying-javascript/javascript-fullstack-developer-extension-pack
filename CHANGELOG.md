@@ -1,5 +1,9 @@
 ## 1.0.2
 
+- Updated tags
+
+## 1.0.2
+
 - Updated title and description
 
 ## 1.0.1
