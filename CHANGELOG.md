@@ -1,4 +1,10 @@
-## 1.0.2
+## 1.2.0
+
+- Updated tags
+- Added new extensions
+- Corrected package names
+
+## 1.0.3
 
 - Updated tags
 

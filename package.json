@@ -2,7 +2,7 @@
 	"name": "javascript-fullstack-developer-extension-pack",
 	"displayName": "Javascript Extensions Pack",
 	"description": "Everything you need for fullstack javascript web development",
-	"version": "1.0.3",
+	"version": "1.2.0",
 	"publisher": "demystifying-javascript",
 	"license": "MIT",
 	"icon": "images/icon.png",
@@ -40,7 +40,11 @@
 		"html",
 		"eslint",
 		"prettier",
-		"rest api"
+		"rest api",
+		"playground",
+		"quokka-output",
+		"quokka-recent",
+		"scratchpad"
 	],
 	"categories": [
 		"Extension Packs",
@@ -68,8 +72,7 @@
 		"ritwickdey.LiveServer",
 		"aaron-bond.better-comments",
 		"pnp.polacode",
-		"Shan.code-settings-sync",
-		"ritwickdey.live-sass",
+		"glenn2223.live-sass",
 		"eriklynd.json-tools",
 		"johnpapa.vscode-cloak",
 		"mikestead.dotenv",
@@ -77,6 +80,9 @@
 		"ChakrounAnas.turbo-console-log",
 		"rangav.vscode-thunder-client",
 		"chrmarti.regex",
+		"alefragnani.Bookmarks",
+		"wix.vscode-import-cost",
+		"WallabyJs.quokka-vscode",
 		"donjayamanne.git-extension-pack",
 		"waderyan.nodejs-extension-pack"
 	]

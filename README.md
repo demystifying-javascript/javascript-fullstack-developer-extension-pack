@@ -20,7 +20,11 @@ This extension pack packages some of the most popular and some of my favorite ex
 * [open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) - This extension allows you to open the current file in your default browser or application.
 * [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) - This extension helps in automating the process of writing meaningful log messages.
 * [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) - This extension is a lightweight Rest API Client Extension for Visual Studio Code.
-* [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex) - This extension shows the current regular expression's matches in a side-by-side document. 
+* [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex) - This extension shows the current regular expression's matches in a side-by-side document.
+* [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - This extension helps i marking lines and jump to them.
+* [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - This extension will display inline in the editor the size of the imported package. The extension utilizes webpack in order to detect the imported size.
+* [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - This extension is a developer productivity tool for rapid JavaScript / TypeScript prototyping. Runtime values are updated and displayed in your IDE next to your code, as you type.
+
 
 
 ## Extensions Packs Included
