@@ -1,3 +1,7 @@
+## 1.2.1
+
+- Updated package name
+
 ## 1.2.0
 
 - Updated tags
