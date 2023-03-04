@@ -1,6 +1,9 @@
 # Javascript Fullstack Development Extension Pack
 This extension pack packages some of the most popular and some of my favorite extensions needed for fullstack Javascript development or web development.
 
+<a href="https://www.buymeacoffee.com/demystifyingjs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
 ## Extensions Included
 
 * [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - This extension contains code snippets for JavaScript in ES6 syntax for Vs Code editor (supports both JavaScript and TypeScript).

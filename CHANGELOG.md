@@ -1,3 +1,7 @@
+## 1.2.3
+
+- Updated description
+
 ## 1.2.2
 
 - Updated package name
