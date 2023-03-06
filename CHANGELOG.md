@@ -1,3 +1,7 @@
+## 1.2.4
+
+- Updated README.md
+
 ## 1.2.3
 
 - Updated description

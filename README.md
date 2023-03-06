@@ -1,4 +1,8 @@
 # Javascript Fullstack Development Extension Pack
+
+[![Version](https://vsmarketplacebadges.dev/version/demystifying-javascript.javascript-fullstack-developer-extension-pack.svg?&colorB=orange)](https://marketplace.visualstudio.com/items?itemName=demystifying-javascript.javascript-fullstack-developer-extension-pack) [![Installs](https://vsmarketplacebadges.dev/installs/demystifying-javascript.javascript-fullstack-developer-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=demystifying-javascript.javascript-fullstack-developer-extension-pack) [![Downloads](https://vsmarketplacebadges.dev/downloads/demystifying-javascript.javascript-fullstack-developer-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=demystifying-javascript.javascript-fullstack-developer-extension-pack) [![Rating Short](https://vsmarketplacebadges.dev/rating-short/demystifying-javascript.javascript-fullstack-developer-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=demystifying-javascript.javascript-fullstack-developer-extension-pack) [![Rating Star](https://vsmarketplacebadges.dev/rating-star/demystifying-javascript.javascript-fullstack-developer-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=demystifying-javascript.javascript-fullstack-developer-extension-pack)
+
+
 This extension pack packages some of the most popular and some of my favorite extensions needed for fullstack Javascript development or web development.
 
 <a href="https://www.buymeacoffee.com/demystifyingjs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
