@@ -2,7 +2,7 @@
 	"name": "javascript-fullstack-developer-extension-pack",
 	"displayName": "Javascript Development Extensions Pack",
 	"description": "Everything you need for fullstack javascript web development. Node Js and Git Extensions Pack Included",
-	"version": "1.2.4",
+	"version": "1.2.5",
 	"publisher": "demystifying-javascript",
 	"license": "MIT",
 	"icon": "images/icon.png",

@@ -1,3 +1,7 @@
+## 1.2.5
+
+- Added "Fix JSON" extension
+
 ## 1.2.4
 
 - Updated README.md

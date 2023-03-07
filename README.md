@@ -22,6 +22,7 @@ This extension pack packages some of the most popular and some of my favorite ex
 * [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) - This extension helps to create a polaroid for your code.
 * [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass) - This extension helps you to compile/transpile your SASS/SCSS files to CSS files at real-time.
 * [JSON Tools](https://marketplace.visualstudio.com/items?itemName=eriklynd.json-tools) - This extension helps pretty/minify JSON.
+* [Fix JSON](https://marketplace.visualstudio.com/items?itemName=oliversturm.fix-json) - This extension helps in automatically fixing and formatting a JSON content using jsonic.
 * [Cloak](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-cloak) - This extension hides/shows your secrets in environment files, to avoid accidentally sharing them with everyone who sees your screen.
 * [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - This extension enables .env syntax highlighting.
 * [open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) - This extension allows you to open the current file in your default browser or application.
